@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Hello-my-friend118
-- 👀 I’m interested in 
 - 🌱 I’m currently learning C++
 - 📫 How to reach me: please do not! I'm scared of people.
 - ⚡ Fun fact: I'm braindead
